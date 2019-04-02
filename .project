@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>BabyNaming</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Resources/namesBoys.txt</name>
+			<type>1</type>
+			<location>C:/Users/A/Desktop/namesBoys.txt</location>
+		</link>
+		<link>
+			<name>src/Resources/namesBoys2.txt</name>
+			<type>1</type>
+			<location>C:/Users/A/Desktop/namesBoys2.txt</location>
+		</link>
+		<link>
+			<name>src/Resources/namesGirls.txt</name>
+			<type>1</type>
+			<location>C:/Users/A/Desktop/namesGirls.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
