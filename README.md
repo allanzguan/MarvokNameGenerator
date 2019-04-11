@@ -1,11 +1,12 @@
 # MarvokNameGenerator
 This [Java](https://www.java.com/en/) Program implements Markov model to generate novel names that follow common letter squences.
+
 The program takes the following parameter:
--"Male" or "Female"
--The minimum name length
--The maximum name length
--The order of the model
--The number of names to generate
+- "Male" or "Female"
+- The minimum name length
+- The maximum name length
+- The order of the model
+- The number of names to generate
 
 ## Example Run
 ```
