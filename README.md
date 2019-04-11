@@ -1,5 +1,5 @@
 # MarvokNameGenerator
-This [Java](https://www.java.com/en/) Program implements Markov model to generate novel names that follow common letter squences.
+This [Java](https://www.java.com/en/) Program implements Markov Model to generate novel names that follow common letter squences.
 
 The program takes the following parameter:
 - "Male" or "Female"
